@@ -32,4 +32,10 @@ new Valine({
 });
 ```
 
+在主题配置文件中搜索valine,找到valine下的属性avater,修改为如下所示：
+```
+valine:
+  avatar: wavatar # gravatar style
+```
+
 [1]:http://cn.gravatar.com/
